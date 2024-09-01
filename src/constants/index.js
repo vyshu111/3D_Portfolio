@@ -176,21 +176,21 @@ export const projects = [
         theme: 'btn-back-red',
         name: ' 3D Portfolio Project',
         description: ' An interactive 3D portfolio to showcase projects, skills, and experience. Technologies Used: Blender, Three.js, React.js, Node.js. Key Features: Interactive 3D models, user-friendly interface, responsive design. Outcome: Provided an engaging and visually appealing way to present work and attract potential employers.',
-        link: 'https://github.com/vyshu111/Myportfolio',
+        link: 'https://github.com/vyshu111/3D_Portfolio',
     },
     {
         iconUrl: threads,
         theme: 'btn-back-green',
         name: 'Secure Bank Management System',
         description: ' A web-based system to manage bank accounts and transactions. Technologies Used: Java, MySQL. Key Features: User authentication, transaction processing,and account management. Outcome: Enabled efficient and secure banking operations.',
-        link: 'https://vyshu111.github.io/QR_for_Simon_Game_/',
+        link: 'https://github.com/vyshu111/Secure_BankManagement_System',
     },
     {
         iconUrl: car,
         theme: 'btn-back-blue',
         name: ' Full Stack Decentralized File Sharing DApp',
         description: ' A Decentralized application (DApp) for secure and efficient file sharing. Technologies Used: Ethereum, Solidity, IPFS, React.js, Node.js, MetaMask. Key Features: Decentralized storage, smart contracts for file integrity, user authentication, and secure file transfer. Outcome: Enabled a peer-to-peer file sharing system with enhanced security and privacy.',
-        link: 'https://github.com/vyshu111/BharatInternTasks',
+        link: 'hhttps://github.com/vyshu111/Monkey_share',
     },
     {
         iconUrl: './src/assets/icons/zomato.jpeg', // Replace with the actual icon URL for the project
